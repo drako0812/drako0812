@@ -1,10 +1,17 @@
 # `Hello there!` 👋🤖
+<a id="hello-there" />
 
 My name is Drew Wibbenmeyer and I'm a primarily self-taught developer. I'm from Missouri in the USA. My primary language is C++, and I focus on modern versions of C++.
 
+**NOTE: This README is still a work-in-progress!**
+
+[💻 Languages & Technologies](#languages-and-technologies) | [💻 Primary Languages & Technologies](#languages-and-technologies-primary) | [💻 Secondary Languages & Technologies](#languages-and-technologies-secondary) | [📈 GitHub Stats](#github-stats) | [📧 Social Media](#social-media)
+
 ## 💻 `Languages & Technologies`
+<a id="languages-and-technologies" />
 
 ### `Primary`
+<a id="languages-and-technologies-primary" />
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=80C0FF&color=0078D6)
 ![](https://img.shields.io/badge/Shell-Windows%20Terminal-informational?style=flat&logo=windowsterminal&logoColor=80C0FF&color=4D4D4D)
@@ -22,6 +29,7 @@ My name is Drew Wibbenmeyer and I'm a primarily self-taught developer. I'm from 
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=80C0FF&color=F05032)
 
 ### `Secondary`
+<a id="languages-and-technologies-secondary" />
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=80C0FF&color=FCC624)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=80C0FF&color=4EAA25)
@@ -43,6 +51,7 @@ My name is Drew Wibbenmeyer and I'm a primarily self-taught developer. I'm from 
 ![](https://img.shields.io/badge/Tools-LMMS-informational?style=flag&logo=lmms&logoColor=80C0FF&color=10B146)
 
 ## 📈 `GitHub Stats`
+<a id="github-stats" />
 
 <a href="https://github.com/drako0812/drako0812">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drako0812&theme=prussian&langs_count=5" />
@@ -50,6 +59,25 @@ My name is Drew Wibbenmeyer and I'm a primarily self-taught developer. I'm from 
 <a href="https://github.com/drako0812/drako0812">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=drako0812&show_icons=true&line_height=40&count_private=true&theme=prussian" alt="Drew's GitHub Stats" />
 </a>
+
+## 📧 `Social Media`
+<a id="social-media" />
+
+[![](https://img.shields.io/badge/Twitter-%40drako0812-informational?style=plastic&logo=twitter&logoColor=80C0FF&color=1DA1F2)][twitter]
+[![](https://img.shields.io/badge/GitHub-drako0812-informational?style=plastic&logo=github&logoColor=80C0FF&color=181717)][github]
+[![](https://img.shields.io/badge/LinkedIn-Drew-informational?style=plastic&logo=linkedin&logoColor=80C0FF&color=0A66C2)][linkedin]
+[![](https://img.shields.io/badge/Messenger-dmwibbenmeyer-informational?style=plastic&logo=messenger&logoColor=80C0FF&color=00B2FF)][messenger]
+
+<!-- Links -->
+
+<!-- Social Media -->
+[twitter]: https://twitter.com/drako0812
+[github]: https://github.com/drako0812
+[linkedin]: https://www.linkedin.com/in/drew-wibbenmeyer-9a7b8176
+[messenger]: https://m.me/dmwibbenmeyer
+
+<!-- Other -->
+[ghpages]: https://drako0812.github.io
 
 <!--
 **drako0812/drako0812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
